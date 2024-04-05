@@ -1,0 +1,7 @@
+{
+  "name": "tpms_ble",
+  "domains": ["tpms_ble"],
+  "iot_class": "Local Push",
+  "render_readme": true,
+  "homeassistant": "2023.12"
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "abort": {
+      "already_configured": "Датчик вже підключений",
+      "already_in_progress": "Налаштування дачкика вже запущено",
+      "no_devices_found": "Не знайдено відповідних датчиків в мережі"
+    },
+    "flow_title": "{name}",
+    "step": {
+      "bluetooth_confirm": {
+        "description": "Ви дійсно хочете підключити датчик {name}?"
+      },
+      "user": {
+        "data": {
+          "address": "Датчик"
+        },
+        "description": "Виберіть датчик для підключення"
+      }
+    }
+  }
+}

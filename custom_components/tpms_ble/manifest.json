@@ -1,0 +1,20 @@
+{
+  "domain": "tpms_ble",
+  "name": "TPMS Bluetooth",
+  "config_flow": true,
+  "documentation": "../../README.md",
+  "bluetooth": [
+    {
+      "service_uuid": "000027a5-0000-1000-8000-00805f9b34fb",
+      "connectable": false
+    }
+  ],
+  "version": "1.0",
+  "dependencies": [
+    "bluetooth"
+  ],
+  "codeowners": [
+    "@stalniy"
+  ],
+  "iot_class": "local_push"
+}
